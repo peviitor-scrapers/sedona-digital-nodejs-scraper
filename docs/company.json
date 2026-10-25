@@ -1,0 +1,11 @@
+{
+  "id": "30175977",
+  "company": "SEDONA DIGITAL S.R.L.",
+  "brand": "Sedona Digital",
+  "status": "activ",
+  "location": ["Cluj-Napoca"],
+  "website": ["https://apply.workable.com/sedona-digital"],
+  "career": ["https://apply.workable.com/sedona-digital/"],
+  "scraperFile": "https://github.com/peviitor-scrapers/sedona-digital-nodejs-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://apply.workable.com/j/"
+}
