@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-10-26T12:31:32.923Z_
+_Generated: 2026-10-27T11:49:48.927Z_
 
 ### Business Change Project Manager
 
