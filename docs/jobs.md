@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (12)
+## Current Job Listings (13)
 
-_Generated: 2026-10-27T11:49:48.927Z_
+_Generated: 2026-10-28T12:24:25.244Z_
 
 ### Business Change Project Manager
 
@@ -30,9 +30,23 @@ _Generated: 2026-10-27T11:49:48.927Z_
 - **Location:** România
 - **Status:** scraped
 
+### Engagement Manager
+
+- **URL:** [https://apply.workable.com/j/0E3FCF373F](https://apply.workable.com/j/0E3FCF373F)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
 ### Lead Data Scientist
 
 - **URL:** [https://apply.workable.com/j/FFA8D753D5](https://apply.workable.com/j/FFA8D753D5)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Lead Security Engineer
+
+- **URL:** [https://apply.workable.com/j/6CAAB6C7DD](https://apply.workable.com/j/6CAAB6C7DD)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
@@ -89,13 +103,6 @@ _Generated: 2026-10-27T11:49:48.927Z_
 ### Senior Platform DevOps Engineer
 
 - **URL:** [https://apply.workable.com/j/BDC9C8E581](https://apply.workable.com/j/BDC9C8E581)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Security Engineer
-
-- **URL:** [https://apply.workable.com/j/6CAAB6C7DD](https://apply.workable.com/j/6CAAB6C7DD)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
