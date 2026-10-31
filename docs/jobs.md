@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-10-30 |
+| Last Scraped | 2026-10-31 |
 
-## Current Job Listings (13)
+## Current Job Listings (12)
 
-_Generated: 2026-10-30T12:24:55.160Z_
+_Generated: 2026-10-31T11:54:55.466Z_
 
 ### Business Change Project Manager
 
@@ -56,13 +56,6 @@ _Generated: 2026-10-30T12:24:55.160Z_
 - **URL:** [https://apply.workable.com/j/C437FC2902](https://apply.workable.com/j/C437FC2902)
 - **Work Mode:** remote
 - **Location:** România
-- **Status:** scraped
-
-### Senior Business Operations Analyst
-
-- **URL:** [https://apply.workable.com/j/7A1FF1FE02](https://apply.workable.com/j/7A1FF1FE02)
-- **Work Mode:** remote
-- **Location:** Bucharest
 - **Status:** scraped
 
 ### Senior Data Engineer
