@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
-## Current Job Listings (13)
+## Current Job Listings (14)
 
-_Generated: 2026-11-03T13:51:52.019Z_
+_Generated: 2026-11-04T13:59:00.933Z_
 
 ### Business Change Project Manager
 
@@ -54,6 +54,13 @@ _Generated: 2026-11-03T13:51:52.019Z_
 ### Lead Security Engineer
 
 - **URL:** [https://apply.workable.com/j/6CAAB6C7DD](https://apply.workable.com/j/6CAAB6C7DD)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### MLOps Engineer
+
+- **URL:** [https://apply.workable.com/j/1F245EAD18](https://apply.workable.com/j/1F245EAD18)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
