@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
-## Current Job Listings (14)
+## Current Job Listings (13)
 
-_Generated: 2026-11-04T13:59:00.933Z_
+_Generated: 2026-11-05T14:19:59.442Z_
 
 ### Business Change Project Manager
 
@@ -61,13 +61,6 @@ _Generated: 2026-11-04T13:59:00.933Z_
 ### MLOps Engineer
 
 - **URL:** [https://apply.workable.com/j/1F245EAD18](https://apply.workable.com/j/1F245EAD18)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Accountant & Reporting Analyst
-
-- **URL:** [https://apply.workable.com/j/C437FC2902](https://apply.workable.com/j/C437FC2902)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
