@@ -10,22 +10,22 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-11-06 |
+| Last Scraped | 2026-11-07 |
 
-## Current Job Listings (13)
+## Current Job Listings (12)
 
-_Generated: 2026-11-06T13:56:54.610Z_
-
-### Business Change Project Manager
-
-- **URL:** [https://apply.workable.com/j/730DB80714](https://apply.workable.com/j/730DB80714)
-- **Work Mode:** remote
-- **Location:** Bucuresti
-- **Status:** scraped
+_Generated: 2026-11-07T12:42:00.006Z_
 
 ### Business Operations Manager
 
 - **URL:** [https://apply.workable.com/j/BB298EC18A](https://apply.workable.com/j/BB298EC18A)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Development Team Lead
+
+- **URL:** [https://apply.workable.com/j/A41DBB6BB2](https://apply.workable.com/j/A41DBB6BB2)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
@@ -96,13 +96,6 @@ _Generated: 2026-11-06T13:56:54.610Z_
 ### Senior Microsoft 365 Engineer
 
 - **URL:** [https://apply.workable.com/j/A5417ABEF8](https://apply.workable.com/j/A5417ABEF8)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Senior Platform DevOps Engineer
-
-- **URL:** [https://apply.workable.com/j/BDC9C8E581](https://apply.workable.com/j/BDC9C8E581)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
