@@ -10,18 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (13)
+## Current Job Listings (11)
 
-_Generated: 2026-11-15T13:40:32.766Z_
-
-### Business Analyst
-
-- **URL:** [https://apply.workable.com/j/F3B1A294E6](https://apply.workable.com/j/F3B1A294E6)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
+_Generated: 2026-11-16T15:13:47.843Z_
 
 ### Business Operations Manager
 
@@ -40,13 +33,6 @@ _Generated: 2026-11-15T13:40:32.766Z_
 ### Engagement Manager
 
 - **URL:** [https://apply.workable.com/j/0E3FCF373F](https://apply.workable.com/j/0E3FCF373F)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
-
-### Jira Administrator & Integrations Specialist - Security
-
-- **URL:** [https://apply.workable.com/j/CEE68FAF2F](https://apply.workable.com/j/CEE68FAF2F)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
