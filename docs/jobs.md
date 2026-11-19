@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-11-18T15:21:35.325Z_
+_Generated: 2026-11-19T15:28:09.552Z_
 
 ### Business Operations Manager
 
