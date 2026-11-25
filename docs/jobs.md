@@ -10,18 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (11)
+## Current Job Listings (10)
 
-_Generated: 2026-11-24T17:13:23.364Z_
-
-### Business Operations Manager
-
-- **URL:** [https://apply.workable.com/j/BB298EC18A](https://apply.workable.com/j/BB298EC18A)
-- **Work Mode:** remote
-- **Location:** România
-- **Status:** scraped
+_Generated: 2026-11-25T16:57:31.677Z_
 
 ### Development Team Lead
 
