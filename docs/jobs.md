@@ -7,14 +7,14 @@
 | CIF | 30175977 |
 | Brand | Sedona Digital |
 | Status | activ |
-| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
+| Location | Cluj-Napoca |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-11-25 |
+| Last Scraped | 2026-11-26 |
 
-## Current Job Listings (10)
+## Current Job Listings (12)
 
-_Generated: 2026-11-25T16:57:31.677Z_
+_Generated: 2026-11-26T16:37:17.182Z_
 
 ### Development Team Lead
 
@@ -40,6 +40,13 @@ _Generated: 2026-11-25T16:57:31.677Z_
 ### Lead Security Engineer
 
 - **URL:** [https://apply.workable.com/j/6CAAB6C7DD](https://apply.workable.com/j/6CAAB6C7DD)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Manual QA Engineer (Mid-Level)
+
+- **URL:** [https://apply.workable.com/j/FACE37AC40](https://apply.workable.com/j/FACE37AC40)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
@@ -75,6 +82,13 @@ _Generated: 2026-11-25T16:57:31.677Z_
 ### Senior Data Scientist
 
 - **URL:** [https://apply.workable.com/j/49059502E0](https://apply.workable.com/j/49059502E0)
+- **Work Mode:** remote
+- **Location:** România
+- **Status:** scraped
+
+### Senior Full Stack Developer
+
+- **URL:** [https://apply.workable.com/j/C9FD9CC8D9](https://apply.workable.com/j/C9FD9CC8D9)
 - **Work Mode:** remote
 - **Location:** România
 - **Status:** scraped
