@@ -7,14 +7,14 @@
 | CIF | 30175977 |
 | Brand | Sedona Digital |
 | Status | activ |
-| Location | Cluj-Napoca |
+| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, CAL. DOROBANŢILOR, NR.7, AP.1 |
 | Website | [https://apply.workable.com/sedona-digital](https://apply.workable.com/sedona-digital) |
 | Careers | [https://apply.workable.com/sedona-digital/](https://apply.workable.com/sedona-digital/) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-11-26T16:37:17.182Z_
+_Generated: 2026-11-27T16:22:35.507Z_
 
 ### Development Team Lead
 
